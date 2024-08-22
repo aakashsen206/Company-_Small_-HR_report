@@ -9,19 +9,24 @@ In a rapidly evolving work environment, managing human resources effectively is 
 
 This project aims to analyze key HR metrics such as employee demographics, departmental assignments, job roles, salary distribution, and turnover rates. The scope includes identifying trends and discrepancies in the data, such as salary non-compliance, department-wise employee distribution, and managerial effectiveness. The findings will support recommendations for improving workforce management and aligning HR practices with organizational objectives.
 
+
 **Identification of Entities**:
 
-•	Employees: Individual staff members with data on demographics, job roles, salaries, promotions, and departmental assignments.
 
-•	Departments: Organizational units where employees are assigned, each with varying numbers of employees and salary distributions.
+•	**Employees**: Individual staff members with data on demographics, job roles, salaries, promotions, and departmental assignments.
 
-•	Managers: Employees with supervisory roles, managing teams, and impacting turnover rates.
+•**Departments**: Organizational units where employees are assigned, each with varying numbers of employees and salary distributions.
 
-•	Job Titles: Specific roles within the company, each with an associated salary range and employee count.
+•	**Managers**: Employees with supervisory roles, managing teams, and impacting turnover rates.
 
-•	Cities: Geographic locations of the company’s offices, influencing salary levels and employee distribution.
+•	**Job Titles**: Specific roles within the company, each with an associated salary range and employee count.
+
+•	**Cities**: Geographic locations of the company’s offices, influencing salary levels and employee distribution.
+
+
 
 **Predicted Results** :
+
 
 •	**Salary Compliance**: Identification of employees with salaries outside the expected range, revealing potential biases or inconsistencies.
 
@@ -36,7 +41,8 @@ This project aims to analyze key HR metrics such as employee demographics, depar
 
 **Methods and Materials** 
 
-•**	Data Collection**: Employee demographics, job roles, salaries, departmental assignments, and turnover data.
+
+•**Data Collection**: Employee demographics, job roles, salaries, departmental assignments, and turnover data.
 
 •	**Analysis Techniques**: Descriptive statistics, data visualization, comparative analysis, regression analysis, and data mining.
 
