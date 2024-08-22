@@ -20,15 +20,24 @@ Identification of Entities:
 •	Cities: Geographic locations of the company’s offices, influencing salary levels and employee distribution.
 
 Predicted Results :
+
 •	Salary Compliance: Identification of employees with salaries outside the expected range, revealing potential biases or inconsistencies.
+
 •	Employee Distribution: Insights into the distribution of employees across departments, job roles, and locations, highlighting any imbalances.
+
 •	Turnover Rates: Analysis of turnover rates by manager and department, identifying trends and high-risk areas.
+
 •	Managerial Effectiveness: Evaluation of managerial structures, correlating the number of direct reports with turnover rates and overall effectiveness.
+
 •	Departmental Performance: Identification of departments with performance metrics that deviate from the average, suggesting areas for improvement.
 
-Methods and Materials 
+
+**Methods and Materials **
+
 •	Data Collection: Employee demographics, job roles, salaries, departmental assignments, and turnover data.
+
 •	Analysis Techniques: Descriptive statistics, data visualization, comparative analysis, regression analysis, and data mining.
+
 •	Materials: Data analysis tools (Excel), visualization tools (Tableau, Power BI), statistical software (SPSS), and company HR policies and guidelines.
 
 
