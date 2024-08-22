@@ -1,7 +1,7 @@
-HR Data Analysis Report: 
-Summary
+**HR Data Analysis Report: 
+Summary**
 
-Problem Statement:
+**Problem Statement:**
 In a rapidly evolving work environment, managing human resources effectively is vital for achieving organizational goals. The company faces challenges in understanding employee distribution, salary compliance, and departmental performance. Discrepancies in salary ranges, unclear managerial structures, and varying turnover rates among managers highlight the need for a thorough analysis of HR data to inform strategic decisions.
 
 Scope of the Project:
