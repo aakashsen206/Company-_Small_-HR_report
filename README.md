@@ -8,10 +8,15 @@ Scope of the Project:
 This project aims to analyze key HR metrics such as employee demographics, departmental assignments, job roles, salary distribution, and turnover rates. The scope includes identifying trends and discrepancies in the data, such as salary non-compliance, department-wise employee distribution, and managerial effectiveness. The findings will support recommendations for improving workforce management and aligning HR practices with organizational objectives.
 
 Identification of Entities:
+
 •	Employees: Individual staff members with data on demographics, job roles, salaries, promotions, and departmental assignments.
+
 •	Departments: Organizational units where employees are assigned, each with varying numbers of employees and salary distributions.
+
 •	Managers: Employees with supervisory roles, managing teams, and impacting turnover rates.
+
 •	Job Titles: Specific roles within the company, each with an associated salary range and employee count.
+
 •	Cities: Geographic locations of the company’s offices, influencing salary levels and employee distribution.
 
 Predicted Results :
